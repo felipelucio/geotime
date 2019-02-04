@@ -1,0 +1,112 @@
+.geotime h1,h2,h3,h4,h5
+{
+	margin: 0;
+	writing-mode: vertical-rl;
+	transform: rotate(180deg);
+	text-align: right;
+	flex: 1 0 5%;
+}
+
+.geotime h6 {
+	font-size: 16pt;
+	margin: 0;
+	flex: 1 0 5%;
+	border-left: 1px solid #6a5748;
+}
+
+.geotime.first {
+	border-right: 1px solid #6a5748;
+}
+
+.geotime li
+{
+	position: relative;
+	list-style-type: none;
+	margin: 0;
+	/*margin-left: 50px;*/
+	border: 1px solid #6a5748;
+	border-right: 0;
+	margin-bottom: 1px;
+	display: flex;
+}
+
+.geotime .header li {
+	border: 0;
+}
+
+.geotime ul 
+{
+	/*padding-left: 20px;*/
+	/*margin-left: 10px;*/
+	padding-left: 0;
+	margin-left: 5%;
+	flex: 1 0 20%;
+}
+
+#geotime {
+	position: relative;
+	
+}
+
+#geotime .time-scale {
+	position: absolute;
+	height: 100%;
+	width: 30pt;
+	top: 0;
+	left: 0;
+	background-color: #f00;
+	padding: 0;
+}
+
+#geotime .time-scale li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	padding-bottom: 20cm;
+}
+
+.quaternary { background-color: #fff59e; }
+.neogene { background-color: #fede1a; }
+.paleogene { background-color: #f8ac70; }
+.cenozoic { background-color: #f6ea1a; }
+.cretaceous { background-color: #95c562; }
+.jurassic { background-color: #00b0e2; }
+.triassic { background-color: #984b99; }
+.mesozoic { background-color: #5ac5e9; }
+.permian { background-color: #e35b41; }
+.carboniferous { background-color: #6eafb5; }
+.devonian { background-color: #d49f51; }
+.silurian { background-color: #bfe0cd; }
+.ordovician { background-color: #009881; }
+.cambrian { background-color: #94ac72; }
+.paleozoic { background-color: #a9c6a8; }
+.phanerozoic { background-color: #a2d8f0; }
+.ediacarian { background-color: #fddd88; }
+.cryogenian { background-color: #fed27b; }
+.tonian { background-color: #fcc96d; }
+.neoproterozoic { background-color: #fcbd5e; }
+.stenian { background-color: #fedfb3; }
+.ectasian { background-color: #fbd5a6; }
+.calymmian { background-color: #fdcb98; }
+.mesoproterozoic { background-color: #fbc27f; }
+.statherian { background-color: #f192b2; }
+.orosirian { background-color: #f186a4; }
+.rhyacian { background-color: #ee7898; }
+.siderian { background-color: #ee6d8b; }
+.paleoproterozoic { background-color: #ec6180; }
+.proterozoic { background-color: #ec6180; }
+.proterozoic { background-color: #eb5175; }
+.neoarchean { background-color: #f4b5ca; }
+.mesoarchean { background-color: #f186b0; }
+.paleoarchean { background-color: #ed619e; }
+.eoarchean { background-color: #d80081; }
+.archean { background-color: #e6007f; }
+.hadean { background-color: #b80d7f; }
+
+.hide {
+	display: none;
+}
+
+.flex {
+	display: flex;
+}

@@ -1,0 +1,1158 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pin",
+				"println\tprintln!(…)"
+			],
+			[
+				"session",
+				"sessionmaker"
+			],
+			[
+				"man",
+				"manufacturer_id"
+			],
+			[
+				"country",
+				"country_id"
+			],
+			[
+				"countr",
+				"country_id"
+			],
+			[
+				"Te",
+				"TextTestRunner"
+			],
+			[
+				"decla",
+				"declarative_base"
+			],
+			[
+				"Geo",
+				"GeoTimeFolder"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bord",
+				"border-left"
+			],
+			[
+				"geotim",
+				"geotime_instance"
+			],
+			[
+				"geo",
+				"geotime_intance"
+			],
+			[
+				"levels",
+				"levels"
+			],
+			[
+				"coun",
+				"countKeysPerLevel"
+			],
+			[
+				"ord",
+				"ordovician-upper"
+			],
+			[
+				"lud",
+				"ludfordian"
+			],
+			[
+				"dev",
+				"devonian"
+			],
+			[
+				"_su",
+				"_subperiods"
+			],
+			[
+				"pen",
+				"pennsylvanian-upper"
+			],
+			[
+				"penn",
+				"pennsylvanian"
+			],
+			[
+				"tri",
+				"triassic-upper"
+			],
+			[
+				"jur",
+				"jurassic-upper"
+			],
+			[
+				"cre",
+				"cretaceous-lower"
+			],
+			[
+				"neo",
+				"neogene"
+			],
+			[
+				"mes",
+				"mesoproterozoic"
+			],
+			[
+				"meso",
+				"mesoproterozoic"
+			],
+			[
+				"colum",
+				"column_paleontology_width"
+			],
+			[
+				"chono",
+				"chrono_header_width"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"pale",
+				"paleontology"
+			],
+			[
+				"l",
+				"legend\tTag"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"de",
+				"devonian-lower"
+			],
+			[
+				"devo",
+				"devonian"
+			],
+			[
+				"devoni",
+				"devonian-upper"
+			],
+			[
+				"ol",
+				"ol\tTag"
+			],
+			[
+				"ple",
+				"pleistocene-upper"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"chrono",
+				"chrono_header_width"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"tab",
+				"table-column"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"st",
+				"sticky"
+			],
+			[
+				"rh",
+				"rhaetian"
+			],
+			[
+				"or",
+				"ordovician-lower"
+			],
+			[
+				"floian",
+				"Floian"
+			],
+			[
+				"Sta",
+				"Stage"
+			],
+			[
+				"rhy",
+				"Rhyacian"
+			],
+			[
+				"height",
+				"height_scale"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"chron",
+				"chrono_tree"
+			],
+			[
+				"chro",
+				"chrono_data"
+			],
+			[
+				"headers",
+				"headers_width"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"crea",
+				"cretaceous-lower"
+			],
+			[
+				"cr",
+				"cretaceous-upper"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"col-md",
+				"col-md-12"
+			],
+			[
+				"col",
+				"col-md-12"
+			],
+			[
+				"sty",
+				"position-sticky"
+			],
+			[
+				"posit",
+				"position-sticky"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"cold",
+				"col-md-1"
+			],
+			[
+				"col-",
+				"col-md-2"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"backgroundc",
+				"background-color"
+			],
+			[
+				"he",
+				"headers_width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"vert",
+				"vertical-lr"
+			],
+			[
+				"css",
+				"cssTask"
+			],
+			[
+				"cur",
+				"currHref"
+			],
+			[
+				"curr",
+				"currLink"
+			],
+			[
+				"tex-al",
+				"text-align"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"t",
+				"thead\tTag"
+			],
+			[
+				"intere",
+				"interestY"
+			],
+			[
+				"prin",
+				"principalY"
+			],
+			[
+				"inte",
+				"interestM"
+			],
+			[
+				"mont",
+				"monthlyPayment"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"Mon",
+				"monthlyRate"
+			],
+			[
+				"month",
+				"Monthly"
+			],
+			[
+				"mon",
+				"monthlyRate"
+			],
+			[
+				"secr",
+				"secret_number"
+			],
+			[
+				"print",
+				"println\tprintln!(…)"
+			],
+			[
+				"Sc",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"SCRE",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"SCR",
+				"SCREEN_WIDTH"
+			],
+			[
+				"posi",
+				"positiveOrNegative"
+			],
+			[
+				"Vu",
+				"VueRouter"
+			],
+			[
+				"check",
+				"checkCurrAnswer"
+			],
+			[
+				"current",
+				"current_quiz"
+			],
+			[
+				"save",
+				"savefile"
+			],
+			[
+				"Game",
+				"GameScreen"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"_map",
+				"_map_group"
+			],
+			[
+				"load",
+				"load_pygame"
+			],
+			[
+				"Pla",
+				"PlayState"
+			],
+			[
+				"ani",
+				"animations"
+			],
+			[
+				"fps",
+				"fps_multiplier"
+			],
+			[
+				"anim",
+				"animation_heading"
+			],
+			[
+				"HEAD",
+				"HEADING_S"
+			],
+			[
+				"_curr",
+				"_curr_cycle"
+			],
+			[
+				"_fram",
+				"_frame_w"
+			],
+			[
+				"_frame",
+				"_frame_size"
+			],
+			[
+				"frame",
+				"frame_size"
+			],
+			[
+				"spr",
+				"sprites"
+			],
+			[
+				"tiles",
+				"tilesDisplayH"
+			],
+			[
+				"tile",
+				"tilesDisplayW"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<title>Geological Time Scale</title>\n</head>\n<style type=\"text/css\">\n.geotime h1,h2,h3,h4,h5\n{\n\tmargin: 0;\n\twriting-mode: vertical-rl;\n\ttransform: rotate(180deg);\n\ttext-align: right;\n\tflex: 1 0 5%;\n}\n\n.geotime h6 {\n\tfont-size: 16pt;\n\tmargin: 0;\n\tflex: 1 0 5%;\n\tborder-left: 1px solid #6a5748;\n}\n\n.geotime.first {\n\tborder-right: 1px solid #6a5748;\n}\n\n.geotime li\n{\n\tposition: relative;\n\tlist-style-type: none;\n\tmargin: 0;\n\t/*margin-left: 50px;*/\n\tborder: 1px solid #6a5748;\n\tborder-right: 0;\n\tmargin-bottom: 1px;\n\tdisplay: flex;\n}\n\n.geotime .header li {\n\tborder: 0;\n}\n\n.geotime ul \n{\n\t/*padding-left: 20px;*/\n\t/*margin-left: 10px;*/\n\tpadding-left: 0;\n\tmargin-left: 5%;\n\tflex: 1 0 20%;\n}\n\n#geotime {\n\tposition: relative;\n\t\n}\n\n#geotime .time-scale {\n\tposition: absolute;\n\theight: 100%;\n\twidth: 30pt;\n\ttop: 0;\n\tleft: 0;\n\tbackground-color: #f00;\n\tpadding: 0;\n}\n\n#geotime .time-scale li {\n\tlist-style: none;\n\tmargin: 0;\n\tpadding: 0;\n\tpadding-bottom: 20cm;\n}\n\n.quaternary { background-color: #fff59e; }\n.neogene { background-color: #fede1a; }\n.paleogene { background-color: #f8ac70; }\n.cenozoic { background-color: #f6ea1a; }\n.cretaceous { background-color: #95c562; }\n.jurassic { background-color: #00b0e2; }\n.triassic { background-color: #984b99; }\n.mesozoic { background-color: #5ac5e9; }\n.permian { background-color: #e35b41; }\n.carboniferous { background-color: #6eafb5; }\n.devonian { background-color: #d49f51; }\n.silurian { background-color: #bfe0cd; }\n.ordovician { background-color: #009881; }\n.cambrian { background-color: #94ac72; }\n.paleozoic { background-color: #a9c6a8; }\n.phanerozoic { background-color: #a2d8f0; }\n.ediacarian { background-color: #fddd88; }\n.cryogenian { background-color: #fed27b; }\n.tonian { background-color: #fcc96d; }\n.neoproterozoic { background-color: #fcbd5e; }\n.stenian { background-color: #fedfb3; }\n.ectasian { background-color: #fbd5a6; }\n.calymmian { background-color: #fdcb98; }\n.mesoproterozoic { background-color: #fbc27f; }\n.statherian { background-color: #f192b2; }\n.orosirian { background-color: #f186a4; }\n.rhyacian { background-color: #ee7898; }\n.siderian { background-color: #ee6d8b; }\n.paleoproterozoic { background-color: #ec6180; }\n.proterozoic { background-color: #ec6180; }\n.proterozoic { background-color: #eb5175; }\n.neoarchean { background-color: #f4b5ca; }\n.mesoarchean { background-color: #f186b0; }\n.paleoarchean { background-color: #ed619e; }\n.eoarchean { background-color: #d80081; }\n.archean { background-color: #e6007f; }\n.hadean { background-color: #b80d7f; }\n\n.hide {\n\tdisplay: none;\n}\n\n.flex {\n\tdisplay: flex;\n}\n\n</style>\n<script type=\"text/javascript\">\nwindow.addEventListener('load', function(ev) {\n\tvar root = document.getElementById('geotime');\n\tvar lis = root.querySelectorAll('.geotime li');\n\tlis.forEach(function(el) {\n\t\tel.addEventListener('click', function(ev) {\n\t\t\tev.stopPropagation();\n\t\t\ttoggle(el);\n\t\t});\n\t})\n});\n\nvar toggle = function(el) {\n\tvar subs = el.getElementsByTagName('ul');\n\t[].slice.call(subs).map(function(el) {\n\t\tel.classList.toggle('hide');\n\t});\n};\n</script>\n<body>\n\t<div id=\"geotime\">\n\t\t<ul class=\"time-scale\">\n\t\t\t<li>present</li>\n\t\t\t<li>1 Ga.</li>\n\t\t\t<li>2 Ga.</li>\n\t\t\t<li>3 Ga.</li>\n\t\t\t<li>4 Ga.</li>\n\t\t</ul>\n\t\t<ul class=\"geotime first\">\n\t\t\t<li class=\"header\">\n\t\t\t\t<h6>Eon</h6>\n\t\t\t\t<ul>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<h6>Era</h6>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t<h6>Period</h6>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t<h6>Epoch</h6>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<h6>Age</h6>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li class=\"eon phanerozoic\">\n\t\t\t\t<h1>Phanerozoic</h1>\n\t\t\t\t<ul>\n\t\t\t\t\t<li class=\"era cenozoic\">\n\t\t\t\t\t\t<h2>Cenozoic</h2>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li class=\"period quaternary\">\n\t\t\t\t\t\t\t\t<h3>quaternary</h3>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch holocene\">\n\t\t\t\t\t\t\t\t\t\t<h4>holocene</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age meghalayan\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>meghalayan</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age northgrippian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>northgrippian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age greenlandian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>greenlandian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch pleistocene\">\n\t\t\t\t\t\t\t\t\t\t<h4>pleistocene</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age pleistocene-upper\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>pleistocene-upper</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age pleistocene-middle\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>pleistocene-middle</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age calabrian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>calabrian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age gelasian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>gelasian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"period neogene\">\n\t\t\t\t\t\t\t\t<h3>neogene</h3>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch pliocene\">\n\t\t\t\t\t\t\t\t\t\t<h4>pliocene</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age piacenzian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>piacenzian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age zanclean\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>zanclean</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch miocene\">\n\t\t\t\t\t\t\t\t\t\t<h4>miocene</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age messinian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>messinian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age toronian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>toronian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age serravalian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>serravalian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age langhian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>langhian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age burdigalian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>burdigalian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age aquitanian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>aquitanian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"period paleogene\">\n\t\t\t\t\t\t\t\t<h3>paleogene</h3>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch oligocene\">\n\t\t\t\t\t\t\t\t\t\t<h4>oligocene</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age chattian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>chattian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age rupelian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>rupelian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch eocene\">\n\t\t\t\t\t\t\t\t\t\t<h4>eocene</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age priabonian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>priabonian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age bartonian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>bartonian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age lutetian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>lutetian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age ypresian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>ypresian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch paleocene\">\n\t\t\t\t\t\t\t\t\t\t<h4>paleocene</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age thanetian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>thanetian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age selandian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>selandian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age danian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>danian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"era mesozoic\">\n\t\t\t\t\t\t<h2>mesozoic</h2>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li class=\"period cretaceous\">\n\t\t\t\t\t\t\t\t<h3>cretaceous</h3>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch cretaceous-upper\">\n\t\t\t\t\t\t\t\t\t\t<h4>cretaceous-upper</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age maastrichtian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>maastrichtian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age campanian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>campanian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age santonian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>santonian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age coniacian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>coniacian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age turonian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>turonian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age cenomanian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>cenomanian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch cretaceous-lower\">\n\t\t\t\t\t\t\t\t\t\t<h4>cretaceous-lower</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age albian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>albian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age aptian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>aptian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age barremian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>barremian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age hauterivian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>hauterivian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age valanginian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>valanginian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age berriasian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>berriasian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"period jurassic\">\n\t\t\t\t\t\t\t\t<h3>jurassic</h3>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch jurassic-upper\">\n\t\t\t\t\t\t\t\t\t\t<h4>jurassic-upper</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age tithonian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>tithonian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age kimmeridgian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>kimmeridgian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age oxfordian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>oxfordian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch jurassic-middle\">\n\t\t\t\t\t\t\t\t\t\t<h4>jurassic-middle</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age callovian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>callovian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age bathonian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>bathonian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age bajocian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>bajocian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age aalenian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>aalenian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch jurassic-lower\">\n\t\t\t\t\t\t\t\t\t\t<h4>jurassic-lower</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age toarcian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>toarcian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age pliensbachian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>pliensbachian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age sinemurian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>sinemurian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age hettangian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>hettangian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"period triassic\">\n\t\t\t\t\t\t\t\t<h3>triassic</h3>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch triassic-upper\">\n\t\t\t\t\t\t\t\t\t\t<h4>triassic-upper</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age rhaetian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>rhaetian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age norian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>norian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age carnian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>carnian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch triassic-middle\">\n\t\t\t\t\t\t\t\t\t\t<h4>triassic-middle</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age ladinian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>ladinian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age anisian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>anisian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch triassic-lower\">\n\t\t\t\t\t\t\t\t\t\t<h4>triassic-lower</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age olenekian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>olenekian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age induan\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>induan</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"era paleozoic\">\n\t\t\t\t\t\t<h2>Paleozoic</h2>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li class=\"period permian\">\n\t\t\t\t\t\t\t\t<h3>permian</h3>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch lopingian\">\n\t\t\t\t\t\t\t\t\t\t<h4>lopingian</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age changhsingian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>changhsingian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age wuchiapingian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>wuchiapingian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch guadalupian\">\n\t\t\t\t\t\t\t\t\t\t<h4>guadalupian</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age capitanian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>capitanian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age wordian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>wordian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age roadian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>roadian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch cisuralian\">\n\t\t\t\t\t\t\t\t\t\t<h4>cisuralian</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age kungurian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>kungurian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age artinskian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>artinskian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age sakmarian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>sakmarian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age asselian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>asselian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"period carboniferous\">\n\t\t\t\t\t\t\t\t<h3>carboniferous</h3>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li class=\"subperiod pennsylvanian\">\n\t\t\t\t\t\t\t\t\t\t<h4>pennsylvanian</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"epoch pennsylvanian-upper\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h4>pennsylvanian-upper</h4>\n\t\t\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<li class=\"age gzhelian\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h5>gzhelian</h5>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<li class=\"age kasimovian\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h5>kasimovian</h5>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"epoch pennsylvanian-middle\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h4>pennsylvanian-middle</h4>\n\t\t\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<li class=\"age moscovian\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h5>moscovian</h5>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"epoch pennsylvanian-lower\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h4>pennsylvanian-lower</h4>\n\t\t\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<li class=\"age bashkirian\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h5>bashkirian</h5>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"subperiod mississippian\">\n\t\t\t\t\t\t\t\t\t\t<h4>mississippian</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"epoch mississippian-upper\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h4>mississippian-upper</h4>\n\t\t\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<li class=\"age serpukhovian\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h5>serpukhovian</h5>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"epoch mississippian-middle\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h4>mississippian-middle</h4>\n\t\t\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<li class=\"age visean\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h5>visean</h5>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"epoch mississippian-lower\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h4>mississippian-lower</h4>\n\t\t\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<li class=\"age tournaisian\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h5>tournaisian</h5>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"period devonian\">\n\t\t\t\t\t\t\t\t<h3>devonian</h3>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch devonian-upper\">\n\t\t\t\t\t\t\t\t\t\t<h4>devonian-upper</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age famennian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>famennian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age frasnian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>frasnian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch devonian-middle\">\n\t\t\t\t\t\t\t\t\t\t<h4>devonian-middle</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age givetian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>givetian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age eifelian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>eifelian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch devonian-lower\">\n\t\t\t\t\t\t\t\t\t\t<h4>devonian-lower</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age emsian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>emsian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age pragian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>pragian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age lochkovian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>lochkovian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"period silurian\">\n\t\t\t\t\t\t\t\t<h3>silurian</h3>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch pridoli\">\n\t\t\t\t\t\t\t\t\t\t<h4>pridoli</h4>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch ludlow\">\n\t\t\t\t\t\t\t\t\t\t<h4>ludlow</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age ludfordian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>ludfordian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age gorstian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>gorstian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch wenlock\">\n\t\t\t\t\t\t\t\t\t\t<h4>wenlock</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age homerian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>homerian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age sheinwoodian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>sheinwoodian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch llandovery\">\n\t\t\t\t\t\t\t\t\t\t<h4>llandovery</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age telychian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>telychian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age aeronian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>aeronian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age rhuddanian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>rhuddanian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"period ordovician\">\n\t\t\t\t\t\t\t\t<h3>ordovician</h3>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch ordovician-upper\">\n\t\t\t\t\t\t\t\t\t\t<h4>ordovician-upper</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age hirnantian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>hirnantian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age katian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>katian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age sandbian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>sandbian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch ordovician-middle\">\n\t\t\t\t\t\t\t\t\t\t<h4>ordovician-middle</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age darriwilian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>darriwilian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age dapingian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>dapingian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch ordovician-lower\">\n\t\t\t\t\t\t\t\t\t\t<h4>ordovician-lower</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age floian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>floian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age tremadocian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>tremadocian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"period cambrian\">\n\t\t\t\t\t\t\t\t<h3>cambrian</h3>\n\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch furongian\">\n\t\t\t\t\t\t\t\t\t\t<h4>furongian</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age stage-10\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>stage-10</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age jiangshanian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>jiangshanian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age paibian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>paibian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch miaolingian\">\n\t\t\t\t\t\t\t\t\t\t<h4>miaolingian</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age guzhangian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>guzhangian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age drumian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>drumian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age wuliuan\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>wuliuan</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch series-2\">\n\t\t\t\t\t\t\t\t\t\t<h4>series-2</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age stage-4\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>stage-4</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age stage-3\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>meghalayan</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t<li class=\"epoch terreneuvian\">\n\t\t\t\t\t\t\t\t\t\t<h4>terreneuvian</h4>\n\t\t\t\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age stage-2\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>stage-2</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"age fortunian\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h5>fortunian</h5>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li class=\"eon proterozoic\">\n\t\t\t\t<h1>Proterozoic</h1>\n\t\t\t\t<ul>\n\t\t\t\t\t<li class=\"era neoproterozoic\">\n\t\t\t\t\t\t<h2>neoproterozoic</h2>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li class=\"period ediacaran\">\n\t\t\t\t\t\t\t\t<h3>ediacaran</h3>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"period cryogenian\">\n\t\t\t\t\t\t\t\t<h3>cryogenian</h3>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"period tonian\">\n\t\t\t\t\t\t\t\t<h3>tonian</h3>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"era mesoproterozoic\">\n\t\t\t\t\t\t<h2>mesoproterozoic</h2>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li class=\"period stenian\">\n\t\t\t\t\t\t\t\t<h3>stenian</h3>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"period ectasian\">\n\t\t\t\t\t\t\t\t<h3>ectasian</h3>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"period calymmian\">\n\t\t\t\t\t\t\t\t<h3>calymmian</h3>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"era paleoproterozoic\">\n\t\t\t\t\t\t<h2>paleoproterozoic</h2>\n\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li class=\"period statherian\">\n\t\t\t\t\t\t\t\t<h3>Statherian</h3>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"period orosirian\">\n\t\t\t\t\t\t\t\t<h3>orosirian</h3>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"period rhyacian\">\n\t\t\t\t\t\t\t\t<h3>Rhyacian</h3>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li class=\"period siderian\">\n\t\t\t\t\t\t\t\t<h3>siderian</h3>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li class=\"eon archean\">\n\t\t\t\t<h1>Archean</h1>\n\t\t\t\t<ul>\n\t\t\t\t\t<li class=\"era neoarchean\">\n\t\t\t\t\t\t<h2>Neoarchean</h2>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"era mesoarchean\">\n\t\t\t\t\t\t<h2>Mesoarchean</h2>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"era paleoarchean\">\n\t\t\t\t\t\t<h2>Paleoarchean</h2>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"era eoarchean\">\n\t\t\t\t\t\t<h2>Eoarchean</h2>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</li>\n\t\t\t<li class=\"eon hadean\">\n\t\t\t\t<h1>Hadean</h1>\n\t\t\t</li>\n\t\t</ul>\n\t</div>\n</body>\n</html>",
+			"file": "/G/Felipe/projetos/geo_scale/index.html",
+			"file_size": 21246,
+			"file_write_time": 131934953189876440,
+			"settings":
+			{
+				"buffer_size": 20421,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Rust Enhanced/RustEnhanced.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Basic Builder"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/User/love-run.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/love-run.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/NimLime/Support/Nim.sublime-build",
+					""
+				],
+				[
+					"Packages/NimLime/Support/Nim.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/NimLime/Support/Nim.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/js-yaml_build.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Automatic"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Run (with args)..."
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Check"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Test (with args)..."
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Document"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Clippy"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Script"
+				],
+				[
+					"Packages/User/js-yaml_build.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Rust/Cargo.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 71.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"toggle",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"term",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"upda",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"termi",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"ter",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"tem",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termin",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"TER",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"te",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"edito",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"buil",
+				"Build With: Nim - Run"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pand",
+				"Pandoc: Convert a Pandoc file to PDF"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggl",
+				"LaTeXTools: Show toggles"
+			],
+			[
+				"build",
+				"Build With: LaTeX"
+			],
+			[
+				"late",
+				"LaTeXTools: Delete temporary files"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"prevvi",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar pre",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/G/Felipe/projetos/periodic_app/nunjucks.config.js",
+		"/G/Felipe/projetos/periodic_app/element.njk",
+		"/G/Felipe/projetos/periodic_app/dist/layout.html",
+		"/G/Felipe/projetos/periodic_app/layout.njk",
+		"/G/projetos/periodic_app/index.html",
+		"/G/projetos/periodic_app/package.json",
+		"/G/projetos/quiz-app/src/index.js",
+		"/G/projetos/quiz-app/src/App.js",
+		"/G/projetos/rust/functions/src/main.rs",
+		"/G/projetos/rust/data_types/src/main.rs",
+		"/G/projetos/rust/variables/src/main.rs",
+		"/G/projetos/rust/guessing_game/Cargo.toml",
+		"/G/projetos/rust/guessing_game/src/main.rs",
+		"/G/projetos/rust/hello_world/main.rs",
+		"/G/projetos/rust/Vagrantfile",
+		"/C/Users/Felipe/VirtualBox VMs/rust_default_1545074353577_95383/rust_default_1545074353577_95383-1.12-windows.vbox",
+		"/C/Users/Felipe/.vagrant.d/boxes/hashicorp-VAGRANTSLASH-precise64/1.1.0/virtualbox/box.ovf",
+		"/G/textos/geologia/areias/areias.md",
+		"/G/textos/0rascunhos/md/um.md",
+		"/G/games/ThElderScr3IIMoMorrowindGOTYGOG/Morrowind.ini",
+		"/C/Users/Felipe/Downloads/WoW Turtle Game Client/realmlist.wtf",
+		"/G/games/emuladores/roms/psx/Ace Combat 3/Ace Combat 3 - Electrosphere (Japan) (Disc 1).cue",
+		"/G/games/emuladores/roms/psx/Brave Fencer Musashi/Brave Fencer Musashi.cue",
+		"/C/Users/Felipe/Downloads/007 Racing (Germany).cue",
+		"/C/Users/Felipe/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/C/Users/Felipe/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/G/textos/sublime.bat",
+		"/G/projetos/raceman/.gitignore",
+		"/G/projetos/raceman/game/__init__.py",
+		"/G/projetos/raceman/tests/__init__.py",
+		"/G/projetos/raceman/game/gui.py",
+		"/G/projetos/raceman/tests/base_test.py",
+		"/C/Users/Felipe/AppData/Roaming/Wargaming.net/WorldOfTanks/preferences.xml",
+		"/G/faculdade/tcc/dados/AX Win/chl_v.txt",
+		"/G/faculdade/tcc/dados/AX Win/chl_p.txt",
+		"/G/faculdade/tcc/dados/AX Win/ms.txt",
+		"/G/faculdade/tcc/dados/AX Win/ser_p.txt",
+		"/G/faculdade/tcc/dados/AX Win/ser_l.txt",
+		"/G/faculdade/tcc/referencias/endnote.xml",
+		"/G/faculdade/tcc/dados/AX Win/chl_a",
+		"/G/faculdade/tcc/dados/AX Win/chl_p",
+		"/G/faculdade/tcc/dados/AX Win/ms",
+		"/G/faculdade/tcc/dados/AX Win/ser_p",
+		"/G/projetos/geotimescale/src/components/GeoTimeFolder.vue",
+		"/G/projetos/geotimescale/src/data.json",
+		"/G/projetos/geotimescale/src/components/GeoTimeScale.vue",
+		"/G/projetos/geotimescale/src/main.js",
+		"/G/projetos/geotimescale/src/App.vue",
+		"/G/projetos/geotimescale/src/GeoTime.js",
+		"/C/Users/Felipe/Downloads/Castlevania_-_Dracula_X.7z",
+		"/G/projetos/geotimescale/src/app/timescale/timescale.component.ts",
+		"/G/projetos/geohistscroll/src/less/main.less",
+		"/G/projetos/geohistscroll/src/js/main.js",
+		"/G/projetos/geohistscroll/src/templates/index2.html",
+		"/G/projetos/geohistscroll/gulpfile.js",
+		"/G/projetos/geohistscroll/src/js/chrono_data.yaml",
+		"/G/projetos/geohistscroll/src/css/main.css",
+		"/G/projetos/geohistscroll/build/js/build.min.js",
+		"/G/projetos/geohistscroll/src/js/chrono_data.json",
+		"/G/projetos/geohistscroll/build/index.html",
+		"/C/Users/Felipe/AppData/Roaming/Sublime Text 3/Packages/User/js-yaml_build.sublime-build",
+		"/D/projetos/geohistscroll/build/test.html",
+		"/D/projetos/geohistscroll/src/templates/index.html",
+		"/D/projetos/geohistscroll/gulpfile.js",
+		"/C/Users/Felipe/Desktop/nethack/defaults.nh",
+		"/D/projetos/geohistscroll/build/index.html",
+		"/D/projetos/geohistscroll/src/.editorconfig",
+		"/D/projetos/geohistscroll/src/less/main.less",
+		"/D/projetos/geohistscroll/.editorconfig",
+		"/D/projetos/geohistscroll/src/templates/phanerozoic/cenozoic/neogene.html",
+		"/D/projetos/geohistscroll/src/templates/phanerozoic/cenozoic/paleogene.html",
+		"/D/projetos/geohistscroll/src/templates/phanerozoic/cenozoic/quaternary.html",
+		"/D/projetos/geohistscroll/src/templates/phanerozoic/cenozoic/cenozoic.html",
+		"/D/projetos/geohistscroll/src/templates/precambrian/hadean.html",
+		"/D/projetos/geohistscroll/src/css/main.css",
+		"/D/projetos/geohistscroll/src/templates/phanerozoic/mesozoic/mesozoic.html",
+		"/D/projetos/geohistscroll/src/templates/phanerozoic/mesozoic/triassic.html",
+		"/D/projetos/geohistscroll/src/templates/phanerozoic/mesozoic/cretaceous.html",
+		"/D/projetos/geohistscroll/src/templates/phanerozoic/mesozoic/jurassic.html",
+		"/D/projetos/geohistscroll/src/templates/phanerozoic/paleozoic/paleozoic.html",
+		"/D/projetos/geohistscroll/src/templates/phanerozoic/paleozoic/permian.html",
+		"/D/projetos/geohistscroll/src/templates/phanerozoic/paleozoic/carboniferous.html",
+		"/D/projetos/geohistscroll/src/templates/precambrian/archean.html",
+		"/D/projetos/geohistscroll/src/templates/precambrian/proterozoic/proterozoic.html",
+		"/D/projetos/geohistscroll/src/templates/precambrian/proterozoic/paleoproterozoic.html",
+		"/D/projetos/geohistscroll/src/templates/precambrian/proterozoic/neoproterozoic.html",
+		"/D/projetos/geohistscroll/src/templates/precambrian/proterozoic/mesoproterozoic.html",
+		"/D/projetos/geohistscroll/src/templates/phanerozoic/paleozoic/ordovician.html",
+		"/D/projetos/geohistscroll/src/templates/phanerozoic/paleozoic/cambrian.html",
+		"/D/projetos/geohistscroll/src/templates/phanerozoic/paleozoic/silurian.html",
+		"/D/projetos/geohistscroll/src/templates/phanerozoic/paleozoic/devonian.html",
+		"/D/projetos/geohistscroll/src/js/main.js",
+		"/D/projetos/geohistscroll/src/less/reset.less",
+		"/D/projetos/geohistscroll/.gitignore",
+		"/D/projetos/geohistscroll/src/js/chrono_data.json",
+		"/D/projetos/geohistscroll/build/css/build.css",
+		"/D/projetos/geohistscroll/src/less/prefixer.less",
+		"/D/projetos/geohistscroll/build/js/build.js",
+		"/D/projetos/geohistscroll/bundle.config.js",
+		"/D/projetos/geohistscroll/src/templates/devTemplate.html",
+		"/D/projetos/geohistscroll/src/templates/precambrian/precambrian.html",
+		"/D/projetos/geohistscroll/src/templates/precambrian/hadean.nunjucks",
+		"/D/projetos/geohistscroll/src/templates/precambrian/archean.nunjucks",
+		"/D/projetos/geohistscroll/src/templates/index.nunjucks",
+		"/D/projetos/geohistscroll/build/index.nunjucks",
+		"/D/projetos/geohistscroll/build/hadean.html",
+		"/D/projetos/geohistscroll/src/templates/hadean.nunjucks",
+		"/D/projetos/geohistscroll/src/templates/template.nunjucks",
+		"/D/projetos/geohistscroll/css/build.css",
+		"/D/projetos/geohistscroll/js/build.js",
+		"/D/projetos/geohistscroll/index.html",
+		"/D/projetos/racephp/src/Config.php",
+		"/D/projetos/racephp/.gitignore",
+		"/D/projetos/racephp/src/public/index.php",
+		"/D/projetos/racephp/composer.json",
+		"/C/Users/Felipe/Documents/trampos/geographs/index.html",
+		"/C/Users/Felipe/Documents/trampos/geographs/src/main.js",
+		"/C/Users/Felipe/Documents/trampos/geographs/src/App.vue",
+		"/C/Users/Felipe/Documents/trampos/geographs/src/Ternary.vue",
+		"/D/projetos/testes/cmake/CMakeLists.txt",
+		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/js/mortgage2.js",
+		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/js/ratefinder.js",
+		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/ratefinder.html",
+		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/js/main.js",
+		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/index.html",
+		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/js/mortgage.js",
+		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/js/rate-service-mock.js",
+		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/webpack.config.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"virtex"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/G/Felipe/projetos/geo_scale/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3091,
+								20405
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sublime-nunjucks/Nunjucks.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2033.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 183.0
+	},
+	"output.exec":
+	{
+		"height": 349.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 100.0
+	},
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "geotime_app.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
