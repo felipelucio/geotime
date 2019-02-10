@@ -496,22 +496,21 @@
 	"buffers":
 	[
 		{
-			"file": "/G/projetos/geotime_app/package.json",
-			"settings":
-			{
-				"buffer_size": 327,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.njk",
+			"file": "src/index.njk",
 			"settings":
 			{
 				"buffer_size": 85,
 				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "<html"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 24,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -739,6 +738,10 @@
 		"selected_items":
 		[
 			[
+				"termi",
+				"Terminus: Toggle Panel"
+			],
+			[
 				"term",
 				"Terminus: Open Default Shell in Panel"
 			],
@@ -765,10 +768,6 @@
 			[
 				"ins",
 				"Package Control: Install Package"
-			],
-			[
-				"termi",
-				"Terminus: Toggle Panel"
 			],
 			[
 				"ter",
@@ -869,6 +868,7 @@
 	],
 	"file_history":
 	[
+		"/G/projetos/geotime_app/package.json",
 		"/G/projetos/geotime_app/.gitignore",
 		"/G/projetos/periodic_app/nunjucks.config.js",
 		"/G/projetos/periodic_app/element.njk",
@@ -995,8 +995,7 @@
 		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/ratefinder.html",
 		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/js/main.js",
 		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/index.html",
-		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/js/mortgage.js",
-		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/js/rate-service-mock.js"
+		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/js/mortgage.js"
 	],
 	"find":
 	{
@@ -1037,37 +1036,7 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/G/projetos/geotime_app/package.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 327,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								115,
-								115
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.njk",
+					"file": "src/index.njk",
 					"semi_transient": false,
 					"settings":
 					{
@@ -1078,14 +1047,42 @@
 						"selection":
 						[
 							[
-								31,
-								30
+								69,
+								69
 							]
 						],
 						"settings":
 						{
 							"auto_name": "<html",
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".gitignore",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 24,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
