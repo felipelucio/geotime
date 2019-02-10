@@ -1,0 +1,25 @@
+#app {
+	
+}
+
+#app ul {
+	margin: 0;
+	padding: 0;
+}
+
+#app li {
+	list-style-type: none;
+	border: 1px solid #000;
+	display: flex;
+	box-sizing: border-box;
+	height: all;
+}
+
+#app li > h1,h2,h3,h4,h5 {
+	flex: 0 0 2rem;
+	writing-mode: vertical-lr;
+}
+
+#app li > div {
+	flex: 0 0 10rem;
+}
