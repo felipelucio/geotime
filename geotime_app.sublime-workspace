@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"grid-are",
+				"grid-area\tproperty"
+			],
+			[
+				"grid-co",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"gri",
+				"inline-grid\tdisplay"
+			],
+			[
 				"html",
 				"html\thtml"
 			],
@@ -230,10 +246,6 @@
 			[
 				"headers",
 				"headers_width"
-			],
-			[
-				"flex",
-				"flex-direction"
 			],
 			[
 				"box-",
@@ -496,20 +508,73 @@
 	"buffers":
 	[
 		{
-			"file": "src/index.njk",
+			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 85,
+				"buffer_size": 474,
 				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "<html"
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": ".gitignore",
+			"file": ".babelrc",
 			"settings":
 			{
-				"buffer_size": 24,
+				"buffer_size": 32,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".editorconfig",
+			"settings":
+			{
+				"buffer_size": 67,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 304,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/css/main.css",
+			"settings":
+			{
+				"buffer_size": 2508,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/app.jsx",
+			"settings":
+			{
+				"buffer_size": 143,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/main.js",
+			"settings":
+			{
+				"buffer_size": 422,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/index.js",
+			"settings":
+			{
+				"buffer_size": 143,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -738,12 +803,16 @@
 		"selected_items":
 		[
 			[
-				"termi",
+				"term",
 				"Terminus: Toggle Panel"
 			],
 			[
-				"term",
-				"Terminus: Open Default Shell in Panel"
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"termi",
+				"Terminus: Toggle Panel"
 			],
 			[
 				"toggle",
@@ -864,10 +933,12 @@
 	"expanded_folders":
 	[
 		"/G/projetos/geotime_app",
-		"/G/projetos/geotime_app/src"
+		"/G/projetos/geotime_app/src",
+		"/G/projetos/geotime_app/src/js"
 	],
 	"file_history":
 	[
+		"/G/projetos/geotime_app/src/index.njk",
 		"/G/projetos/geotime_app/package.json",
 		"/G/projetos/geotime_app/.gitignore",
 		"/G/projetos/periodic_app/nunjucks.config.js",
@@ -994,8 +1065,7 @@
 		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/js/ratefinder.js",
 		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/ratefinder.html",
 		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/js/main.js",
-		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/index.html",
-		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/js/mortgage.js"
+		"/C/Users/Felipe/Documents/trampos/es6_tests/es6-tutorial/index.html"
 	],
 	"find":
 	{
@@ -1031,45 +1101,204 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 6,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/index.njk",
+					"file": "package.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 85,
+						"buffer_size": 474,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								69,
-								69
+								149,
+								149
 							]
 						],
 						"settings":
 						{
-							"auto_name": "<html",
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"editorconfig": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": ".gitignore",
+					"file": ".babelrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".editorconfig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"SL.28.region_keys":
+							[
+							],
+							"syntax": "Packages/EditorConfig/EditorConfig.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								273,
+								273
+							]
+						],
+						"settings":
+						{
+							"SL.29.region_keys":
+							[
+							],
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								268,
+								268
+							]
+						],
+						"settings":
+						{
+							"SL.22.region_keys":
+							[
+							],
+							"auto_name": "",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/js/app.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"SL.18.region_keys":
+							[
+							],
+							"editorconfig": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/js/main.js",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 24,
+						"buffer_size": 422,
 						"regions":
 						{
 						},
@@ -1082,13 +1311,50 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+							"editorconfig": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/js/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								88
+							]
+						],
+						"settings":
+						{
+							"SL.30.region_keys":
+							[
+							],
+							"editorconfig": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
